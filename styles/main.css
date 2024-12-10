@@ -30,6 +30,10 @@ h2 {
     padding-top: 1rem;
     color: #004B0F;
 }
+.message { 
+    padding: .75rem;
+    color: #E00501;
+}
 footer {
     font-size: .74rem;
 }
